@@ -3,11 +3,11 @@ Aplikasi seluler untuk memberitahukan apakah pada waktu tertentu bercocok tanam 
 
 Agraria menyediakan 2 menu utama yang dapat digunakan sebagai sarana media informasi
 
-![image](https://user-images.githubusercontent.com/47960987/149724960-2d768954-ee53-4a60-b42c-2acf3fdea9b2.png)
+![logobtnpadi](https://user-images.githubusercontent.com/47960987/149726092-d461d79a-4bb2-4e56-9903-284707a3c6d2.png)
 Menu "Cocok tanam sekarang?" berfungsi untuk mencaritahu apakah pada periode waktu tertentu, bercocok tanam padi dapat dilakukan secara optimal.
 
-![image](https://user-images.githubusercontent.com/47960987/149725250-48fab3a2-72d6-438e-a208-c1b970e69ac5.png)
+![logobtncuaca](https://user-images.githubusercontent.com/47960987/149726104-b2eeb9bc-124a-4a39-aab5-3111a191b023.png)
 Menu "Prakiraan cuaca" berfungsi untuk menampilkan informasi prakiraan cuaca selama periode waktu 3 hari ke depan
 
-![image](https://user-images.githubusercontent.com/47960987/149725368-60adf4be-2982-4572-b302-7dd2d01b8d82.png)
+![logobtninfo](https://user-images.githubusercontent.com/47960987/149726119-afb9ddb8-f31e-4651-9849-aeabd88e2a93.png)
 Menu "Tentang aplikasi" berfungsi untuk menampilkan informasi terkait aplikasi dan pengembang. Terdapat informasi kontak yang dapat dihubungi bila pengguna ingin menghubungi pengembang prihal pengaduan kinerja aplikasi ataupun tujuan lain.
