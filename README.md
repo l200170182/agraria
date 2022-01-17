@@ -1,4 +1,4 @@
-# agraria
+# Agraria
 Aplikasi seluler untuk memberitahukan apakah pada waktu tertentu bercocok tanam padi dapat dilakukan dengan memperhatikan data prakiraan cuaca BMKG
 
 Agraria menyediakan 2 menu utama yang dapat digunakan sebagai sarana media informasi
